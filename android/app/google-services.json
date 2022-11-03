@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "224411734821",
+    "firebase_url": "https://elproject-dc947-default-rtdb.firebaseio.com",
+    "project_id": "elproject-dc947",
+    "storage_bucket": "elproject-dc947.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224411734821:android:b9506fcb8dc7eff02e40cc",
+        "android_client_info": {
+          "package_name": "com.example.el_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224411734821-2shpr04p16c7s7jmqgr5vq5a6idm936m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.el_project",
+            "certificate_hash": "8b1790e80c2316048b9b6b99fe5de58b4206434e"
+          }
+        },
+        {
+          "client_id": "224411734821-dq6l2ua9rduko5q5i978fm0cdevkdo33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJocq-xf3IZlJ5T5GUjWSnFjfSBXgapJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224411734821-dq6l2ua9rduko5q5i978fm0cdevkdo33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
